@@ -25,3 +25,4 @@ Verify that the plugin loaded successfully
  curl -s 127.0.0.1:8001 | jq '.plugins.available_on_server' | grep 'ip-region-restriction'
 ```
 Use Konga to configure and view the effect
+![1292211659796101_ pic](https://user-images.githubusercontent.com/22147280/183253144-e00a0c1e-9801-4278-9020-64d704b0119b.jpg)
